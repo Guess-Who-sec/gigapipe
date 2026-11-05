@@ -1,0 +1,1 @@
+Throwaway file: makes the k6 lane run on a fork PR. Do not merge.
